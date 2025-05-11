@@ -15,14 +15,6 @@ A modern Android news app built with Jetpack Compose, Retrofit, Room and Hilt
 - Search news with query
 - Display news Data
 - Offline cache
-
-
-
-- Clean Architecture
-- Jetpack Compose UI
-- Hilt for Dependency Injection
-- Retrofit + Room
-
 ## 🛠️ Tech Stack
 
 - Kotlin
