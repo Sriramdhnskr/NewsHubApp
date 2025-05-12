@@ -22,4 +22,3 @@ A modern Android news app built with Jetpack Compose, Retrofit, Room and Hilt
 - Hilt
 - Retrofit
 - Room
-- Paging 3
